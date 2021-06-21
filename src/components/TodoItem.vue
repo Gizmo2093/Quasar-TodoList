@@ -5,10 +5,10 @@
 
    <q-item tag="label" v-ripple>
     <q-item-section side top>
-      <q-checkbox v-model="value" />
+      <q-checkbox v-model="value"/>
     </q-item-section>
 
-    <q-item-section>
+    <q-item-section :class="{Through : value}">
       <q-item-label>{{task.text}}</q-item-label>
     </q-item-section>
 
@@ -39,3 +39,9 @@ props:{
   }
 }
 </script>
+
+<style>
+.Through{
+  text-decoration: line-through;
+}
+</style>
