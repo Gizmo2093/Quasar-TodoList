@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.quasar
+.editorconfig
+.eslintignore
+.eslintrc.js
+.postcssrc.js
+
+
