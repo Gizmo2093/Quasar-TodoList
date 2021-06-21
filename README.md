@@ -1,4 +1,4 @@
-![todo_list](https://user-images.githubusercontent.com/33054717/122701488-8f2d8b80-d277-11eb-9d3c-61650c136dfd.gif)
+![todo](https://user-images.githubusercontent.com/33054717/122792372-511a8100-d2e4-11eb-8451-0684fdcc7069.gif)
 
 # Quasar App (quasar_upload)
 
